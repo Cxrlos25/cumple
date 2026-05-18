@@ -1,6 +1,6 @@
 # Página de Cumpleaños
 
-Una breve animación  animada creada especialmente para alguien muy especial para mi en su momento
+Una breve animación creada especialmente para alguien muy especial para mi en su momento.
 
 ## Como funciona
 
@@ -19,3 +19,7 @@ La animación tiene 3 fases por cada letra:
 ## Ver pagina
 
 [Haz clic aqui](https://cxrlos25.github.io/cumple/)
+
+## Creditos
+
+Inspirado en un repositorio de CodePen.
