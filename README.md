@@ -1,6 +1,6 @@
 # Página de Cumpleaños
 
-Una breve animación creada especialmente para alguien muy especial para mi en su momento.
+Una breve animación creada especialmente para alguien muy especial para mi
 
 ## Como funciona
 
