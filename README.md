@@ -2,7 +2,7 @@
 
 Una breve animación creada especialmente para alguien muy especial para mi
 
-## Como funciona
+## ¿Como funciona?
 
 La animación tiene 3 fases por cada letra:
 
